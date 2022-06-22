@@ -66,10 +66,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
   'quotes': 'Quotes',
   'fun': 'Fun',
   'anime': 'Anime',
-  'admin': 'Admin',
   'group': 'Group',
-  'vote': 'Voting',
-  'absen': 'Absen',
   'premium': 'Premium',
   'anonymous': 'Anonymous Chat',
   'internet': 'Internet',
@@ -84,7 +81,6 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
   'host': 'Host',
   'advanced': 'Advanced',
   'info': 'Info',
-  '': 'No Category',
 }
   if (teks == 'game') tags = {
     'game': 'Game'
