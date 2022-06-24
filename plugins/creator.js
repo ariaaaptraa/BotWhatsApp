@@ -26,8 +26,8 @@ ${htjava} *Umur:* 13 Tahun
 ${htjava} *Kelas:* 7 Smp
 ${htjava} *Status:* Couple
 
-${htjava} *Ulang Tahun:* 5 Oct 2008
-${htjava} *Alamat:* Indonesia, jawa barat, bogor
+${htjava} *Ulang Tahun:* 21 Agustus 2004
+${htjava} *Alamat:* Perum Kamata Regency, Cikarang Selatan 
 ${htjava} *Skills:* 
 > JavaScript [89.7%]
 > Python [13.4%]
