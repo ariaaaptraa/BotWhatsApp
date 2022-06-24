@@ -44,7 +44,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/iniariaa'
-global.sgh = '-'
+global.sgh = 'https://github.com/ariaaaptraa'
 global.sgc = 'https://chat.whatsapp.com/Eu0kFgm7iSh8Kn5mfzTMUd'
 global.sdc = '-'
 global.snh = '-'
@@ -111,11 +111,11 @@ global.APIKeys = { // APIKey Here
 /*============== WATERMARK ==============*/
 global.wm = '                「 (っ◔◡◔)っ ♥ AriaBot - MD ♥ ⁩㊣ 」' //Main Watermark
 global.wm2 = '꒷꒥꒷ ‧₊˚ ꒰ฅ˘Lord - Aria˘ฅ ꒱ ‧₊˚꒷꒥꒷'
-global.wm3 = '⫹⫺ (っ◔◡◔)っ ♥ AriaBot - MD ♥'
+global.wm3 = '(っ◔◡◔)っ ♥ AriaBot - MD ♥'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ (っ◔◡◔)っ ♥ AriaBot - MD ♥ | By ${global.nameown}`
-global.author = '                「 (っ◔◡◔)っ ♥ AriaBot - MD ♥ あ⁩ 」'
+global.titlebot = `(っ◔◡◔)っ ♥ AriaBot - MD ♥ | By ${global.nameown}`
+global.author = '          「 (っ◔◡◔)っ ♥ AriaBot - MD ♥ あ⁩ 」'
 
 
 /*============== LOGO ==============*/
