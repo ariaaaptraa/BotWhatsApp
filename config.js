@@ -115,7 +115,7 @@ global.wm3 = '(っ◔◡◔)っ ♥ AriaBot - MD ♥'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `(っ◔◡◔)っ ♥ AriaBot - MD ♥ | By ${global.nameown}`
-global.author = '          「 (っ◔◡◔)っ ♥ AriaBot - MD ♥ あ⁩ 」'
+global.author = '「 (っ◔◡◔)っ ♥ AriaBot - MD ♥ あ⁩ 」'
 
 
 /*============== LOGO ==============*/
