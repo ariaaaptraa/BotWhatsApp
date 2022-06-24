@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 AzBoTz ⁩㊣ 」' //Main Watermark
-global.wm2 = '꒷꒥꒷ ‧₊˚ ꒰ฅ˘Lord - Khun˘ฅ ꒱ ‧₊˚꒷꒥꒷'
-global.wm3 = '⫹⫺ Az𝗕𝗢𝗧'
+global.wm = '                「 (っ◔◡◔)っ ♥ AriaBot - MD ♥ ⁩㊣ 」' //Main Watermark
+global.wm2 = '꒷꒥꒷ ‧₊˚ ꒰ฅ˘Lord - Aria˘ฅ ꒱ ‧₊˚꒷꒥꒷'
+global.wm3 = '⫹⫺ (っ◔◡◔)っ ♥ AriaBot - MD ♥'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 AzBoTz あ⁩ 」'
+global.titlebot = `⫹⫺ (っ◔◡◔)っ ♥ AriaBot - MD ♥ | By ${global.nameown}`
+global.author = '                「 (っ◔◡◔)っ ♥ AriaBot - MD ♥ あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -183,7 +183,7 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `(っ◔◡◔)っ ♥ AriaBot - MD ♥`
 
 global.multiplier = 38 // The higher, The harder levelup
 
