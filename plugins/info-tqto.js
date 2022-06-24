@@ -50,6 +50,9 @@ https://github.com/Fokusdotid
 
 *❉ AzRyCb:*
 https://github.com/AzRyCb
+
+*❉ Aria Putra Pratama:*
+https://github.com/ariaaaptraa
 `
 conn.reply(m.chat, tqto, m, { contextInfo: { externalAdReply: {
             title: `${htjava} ${namebot}`,
