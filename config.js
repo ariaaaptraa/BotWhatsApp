@@ -43,31 +43,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/azrycb'
-global.sgh = 'https://github.com/AzRyCb'
-global.sgc = 'https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://github.com/AzRyCb'
+global.sig = 'https://instagram.com/iniariaa'
+global.sgh = '-'
+global.sgc = 'https://chat.whatsapp.com/Eu0kFgm7iSh8Kn5mfzTMUd'
+global.sdc = '-'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085795035419'
-global.povo = '085722037770'
-global.pgopay = '085722037770'
-global.ppulsa = '085722037770'
-global.ppulsa2 = '085795035419'
-global.psaweria = 'https://saweria.com/AzRyCb'
+global.pdana = '089525340368'
+global.povo = '089525340368'
+global.pgopay = '089525340368'
+global.ppulsa = '083822276423'
+global.ppulsa2 = '089525340368'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283879175089'
-global.nomorown = '6285795035419'
-global.namebot = 'AzBoTz'
-global.nameown = 'Az'
+global.nomorbot = '6283822276423'
+global.nomorown = '6289525340368'
+global.namebot = 'AriaBot-MD'
+global.nameown = 'Ariaa'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285750336781'],
-  ['6289688069444'],
-  ['6285795035419', '⌬ AzRyCb', true]
+  ['6289525340368', '⌬ AriaBoT-MD', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,7 +93,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEY',
+  'https://api.xteam.xyz': 'HIRO',
   'https://anabotofc.herokuapp.com/': 'APIKEY',
   'https://api.lolhuman.xyz': 'APIKEY',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
