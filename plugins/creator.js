@@ -42,7 +42,7 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor", rowId: ".owner nomor"},
+	    {title: "📱 • Nomor", rowId: ".donasi"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
 	{title: "🌎 • Script", rowId: ".sc"},
 	]
